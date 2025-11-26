@@ -103,7 +103,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border: 1px solid var(--accent-color);
+  border-color: var(--accent-color);
   opacity: 0.4;
 }
 
@@ -116,7 +116,7 @@
 }
 
 .header__theme-menu-button_active {
-  border: 1px solid var(--accent-color);
+  border-color: var(--accent-color);
   pointer-events: none;
 }
 
