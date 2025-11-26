@@ -55,7 +55,6 @@
   align-items: start;
   padding: 10px;
   block-size: 100vh;
-  min-block-size: 668px;
 }
 
 /* REC элемент */
@@ -93,7 +92,6 @@
 }
 
 .header__theme-menu-button {
-  border: none;
   padding: 0 13px;
   color: var(--accent-color);
   text-transform: lowercase;
@@ -232,7 +230,6 @@
   place-items: center;
   padding: 10px;
   block-size: 100vh;
-  min-block-size: 668px;
 }
 
 .footer__title {
@@ -257,7 +254,6 @@
 
   .header {
     padding: 20px;
-    min-block-size: 1024px;
   }
 
   .header__rec {
@@ -332,7 +328,6 @@
 
   .footer {
     padding: 20px;
-    min-block-size: 1024px;
   }
 
   .footer__title {
