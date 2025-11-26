@@ -54,7 +54,7 @@
   grid-template-rows: 1fr auto 1fr;
   align-items: start;
   padding: 10px;
-  block-size: 100vh;
+  min-block-size: 100vh;
 }
 
 /* REC элемент */
@@ -229,7 +229,7 @@
   display: grid;
   place-items: center;
   padding: 10px;
-  block-size: 100vh;
+  min-block-size: 100vh;
 }
 
 .footer__title {
